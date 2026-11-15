@@ -8,8 +8,16 @@ authors:
   - name: "Podcast Host Lab"
     email: hello@podcasthostlab.com
     website: "https://podcasthostlab.com/"
+doi: 10.5281/zenodo.24250327
 url: "https://podcasthostlab.com/podcast-hosting-price-tracker/"
-repository: "https://podcasthostlab.com/data/"
+repository: "https://github.com/podcasthostlab/podcast-hosting-prices"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24250327
+    description: "Concept DOI, always resolves to the newest version"
+  - type: doi
+    value: 10.5281/zenodo.24250328
+    description: "Version 2026.11"
 license: CC-BY-4.0
 abstract: >-
   Plans and list prices for 12 podcast hosting services plus Spotify for Creators,

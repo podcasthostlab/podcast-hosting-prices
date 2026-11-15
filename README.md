@@ -8,6 +8,9 @@ two clicks.
 Maintained by [Podcast Host Lab](https://podcasthostlab.com/podcast-hosting-price-tracker/). The live
 tracker is re-checked on the first of every month. There are no affiliate links in these files.
 
+Archived on Zenodo: [doi.org/10.5281/zenodo.24250327](https://doi.org/10.5281/zenodo.24250327) (always
+points to the newest version).
+
 Hosts covered: Acast, Blubrry, Buzzsprout, Captivate, Castos, Libsyn, Podbean, RSS.com, Riverside,
 Simplecast, Spreaker, Transistor, and Spotify for Creators.
 
@@ -69,7 +72,7 @@ Podcast Host Lab and link to https://podcasthostlab.com/podcast-hosting-price-tr
 ## How to cite
 
 Podcast Host Lab. (2026). *Podcast hosting prices and price changes, 2023 to 2026* (Version 2026.11)
-[Data set]. https://podcasthostlab.com/data/
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.24250327
 
 ## Corrections
 
