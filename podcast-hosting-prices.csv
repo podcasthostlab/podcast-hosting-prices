@@ -1,0 +1,45 @@
+check_date,host,plan,monthly_billed_usd,annual_billed_per_month_usd,upload_limit,shows,video,source_url
+2026-09-24,Acast,Starter,0,0,5 episodes,1,no,https://www.acast.com/en/pricing
+2026-09-24,Acast,Essential,25,14.99,unlimited episodes,unlimited,no,https://www.acast.com/en/pricing
+2026-09-24,Acast,Pro,40,29.99,unlimited episodes,unlimited,no,https://www.acast.com/en/pricing
+2026-09-24,Acast,Video,50,39.99,unlimited episodes; 10000 video views/month,unlimited,yes,https://www.acast.com/en/pricing
+2026-09-24,Blubrry,Standard 1.5,7,,1.5 hrs/month,,yes,https://blubrry.com/services/plans-pricing/
+2026-09-24,Blubrry,Standard 3,15,12.92,3 hrs/month,,yes,https://blubrry.com/services/plans-pricing/
+2026-09-24,Blubrry,Advanced 6,25,21.67,6 hrs/month,,yes,https://blubrry.com/services/plans-pricing/
+2026-09-24,Blubrry,Advanced 12,50,45,12 hrs/month,,yes,https://blubrry.com/services/plans-pricing/
+2026-09-24,Blubrry,Advanced 25,90,80.83,25 hrs/month,,yes,https://blubrry.com/services/plans-pricing/
+2026-09-24,Buzzsprout,Free,0,0,"2 hrs/month, episodes hosted 90 days",,no,https://www.buzzsprout.com/pricing
+2026-09-24,Buzzsprout,Audio,18,15,6 hrs/month (72 hrs/yr on annual),1,no,https://www.buzzsprout.com/pricing
+2026-09-24,Buzzsprout,Audio + Video,30,25,6 hrs/month (72 hrs/yr on annual),1,yes,https://www.buzzsprout.com/pricing
+2026-09-24,Buzzsprout,Multi-Podcast,36,30,15 hrs/month (180 hrs/yr on annual),5,no,https://www.buzzsprout.com/pricing
+2026-09-24,Captivate,Personal,19,17,unlimited uploads; 30000 downloads/month,unlimited,,https://www.captivate.fm/pricing
+2026-09-24,Captivate,Professional,49,44,unlimited uploads; 150000 downloads/month,unlimited,,https://www.captivate.fm/pricing
+2026-09-24,Captivate,Business,99,90,unlimited uploads; 300000 downloads/month,unlimited,,https://www.captivate.fm/pricing
+2026-09-24,Castos,Essentials,19,15.83,unlimited episodes and downloads,unlimited,no,https://castos.com/pricing/
+2026-09-24,Castos,Growth,49,40.83,unlimited episodes and downloads,unlimited,no,https://castos.com/pricing/
+2026-09-24,Castos,Pro,99,82.50,unlimited episodes and downloads,unlimited,yes,https://castos.com/pricing/
+2026-09-24,Libsyn,Bare Essentials,8,,162 MB/month (about 3 hrs),,yes,https://libsyn.com/plans-and-pricing/
+2026-09-24,Libsyn,Basic,12,,3 hrs audio/month,,yes,https://libsyn.com/plans-and-pricing/
+2026-09-24,Libsyn,Advanced,25,,10 hrs audio/month,,yes,https://libsyn.com/plans-and-pricing/
+2026-09-24,Libsyn,Max,150,,55 hrs audio/month,,yes,https://libsyn.com/plans-and-pricing/
+2026-09-24,Podbean,Free,0,0,"5 hrs (500 MB) of storage in total, never resets, 100 MB per file",,no,https://www.podbean.com/podcast-hosting-pricing
+2026-09-24,Podbean,Unlimited Audio,17,12,1 GB/month (16 hrs audio),1,no,https://www.podbean.com/podcast-hosting-pricing
+2026-09-24,Podbean,Unlimited Plus,39,29,10 GB/month (160 hrs audio or 10 hrs video),2,yes,https://www.podbean.com/podcast-hosting-pricing
+2026-09-24,Podbean,Network,99,79,40 GB/month (660 hrs audio or 40 hrs video),unlimited,yes,https://www.podbean.com/podcast-hosting-pricing
+2026-09-24,Podbean,Business,129,99,40 GB/month (660 hrs audio or 40 hrs video),2 public + unlimited private,yes,https://www.podbean.com/podcast-hosting-pricing
+2026-09-24,RSS.com,Free,0,0,unlimited audio,1,no,https://rss.com/pricing/
+2026-09-24,RSS.com,Plus,19.99,15,unlimited audio,1,no,https://rss.com/pricing/
+2026-09-24,RSS.com,Pro,34.99,26,unlimited audio,10,no,https://rss.com/pricing/
+2026-09-24,RSS.com,Max (Video Podcasting),49.99,37,unlimited audio and video,unlimited,yes,https://rss.com/pricing/
+2026-09-24,Riverside,Pro,35,24,15 hrs separate-track downloads/month; recording unlimited,,yes,https://riverside.com/pricing
+2026-09-24,Riverside,Grow,45,34,20 hrs separate-track downloads/month; recording unlimited,2,yes,https://riverside.com/pricing
+2026-09-24,Simplecast,Basic,15,13.50,unlimited uploads; 20000 downloads/month,,,https://www.simplecast.com/pricing
+2026-09-24,Simplecast,Essential,35,31.50,unlimited uploads; 50000 downloads/month,,,https://www.simplecast.com/pricing
+2026-09-24,Spotify for Creators,Free,0,0,unlimited,,yes,https://creators.spotify.com/
+2026-09-24,Spreaker,Free Speech,0,,unlimited episodes,1,,https://www.spreaker.com/plans
+2026-09-24,Spreaker,Broadcaster,20,,unlimited episodes,unlimited,,https://www.spreaker.com/plans
+2026-09-24,Spreaker,Anchorman,50,,unlimited episodes,unlimited,,https://www.spreaker.com/plans
+2026-09-24,Spreaker,Publisher,250,,unlimited episodes,unlimited,,https://www.spreaker.com/plans
+2026-09-24,Transistor,Starter,19,15.83,unlimited uploads; 20000 downloads/month,unlimited,,https://transistor.fm/pricing/
+2026-09-24,Transistor,Professional,49,40.83,unlimited uploads; 100000 downloads/month,unlimited,,https://transistor.fm/pricing/
+2026-09-24,Transistor,Business,99,82.50,unlimited uploads; 250000 downloads/month,unlimited,,https://transistor.fm/pricing/

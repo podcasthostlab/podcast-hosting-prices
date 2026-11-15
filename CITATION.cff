@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Podcast hosting prices and price changes, 2023 to 2026"
+version: "2026.11"
+date-released: 2026-11-15
+authors:
+  - name: "Podcast Host Lab"
+    email: hello@podcasthostlab.com
+    website: "https://podcasthostlab.com/"
+url: "https://podcasthostlab.com/podcast-hosting-price-tracker/"
+repository: "https://podcasthostlab.com/data/"
+license: CC-BY-4.0
+abstract: >-
+  Plans and list prices for 12 podcast hosting services plus Spotify for Creators,
+  read off each host's own pricing page, and 19 verified price and plan changes
+  since January 2023, each linked to Internet Archive copies of the pricing page
+  before and after the change.
+keywords:
+  - podcasting
+  - podcast hosting
+  - pricing
+  - price changes
+  - SaaS pricing
